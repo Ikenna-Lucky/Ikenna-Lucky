@@ -17,13 +17,9 @@ I'm a Full-Stack Developer who loves building fast, responsive, and user-friendl
 
 
 **Frontend:** React | JavaScript | HTML5 | CSS3 | Tailwind CSS
-
 **Backend:** Node.js | Express.js
-
 **Mobile:** React Native | NativeWind
-
 **Database:** MongoDB | PostgreSQL
-
 **Tools:** Git | GitHub | VS Code | Postman
 
 ---
