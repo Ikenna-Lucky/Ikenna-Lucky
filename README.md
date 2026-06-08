@@ -60,12 +60,12 @@ Sanity.io · Cloudinary · Paystack · Google Gemini AI · Socket.io · Sentry �
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ikenna-Lucky&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ikenna's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikenna-Lucky&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ikenna-Lucky&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="Ikenna's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikenna-Lucky&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" height="180"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ikenna-Lucky&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Ikenna-Lucky&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
 
 ---
