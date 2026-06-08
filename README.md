@@ -60,12 +60,17 @@ Sanity.io · Cloudinary · Paystack · Google Gemini AI · Socket.io · Sentry �
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ikenna-Lucky&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="Ikenna's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikenna-Lucky&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ikenna-Lucky&theme=tokyonight" alt="Ikenna's GitHub Stats" width="100%"/>
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Ikenna-Lucky&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ikenna-Lucky&theme=tokyonight" alt="Languages Per Repo" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ikenna-Lucky&theme=tokyonight" alt="Most Used Languages" height="180"/>
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ikenna-Lucky&theme=tokyonight" alt="Stats" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ikenna-Lucky&theme=tokyonight&utcOffset=1" alt="Productive Time" height="180"/>
 </p>
 
 ---
