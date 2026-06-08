@@ -1,8 +1,8 @@
 # Ikenna Mbaekwe
 
-Software Engineer focused on full-stack web applications — from AI-powered SaaS to enterprise EDI systems and government compliance portals.
+Software Engineer focused on full-stack web applications — from AI-powered SaaS products to enterprise EDI automation and government compliance portals.
 
-I work primarily in the **Next.js / Node.js / TypeScript** ecosystem, with a preference for **Hono + Bun** on lighter backend services and **PostgreSQL + Drizzle ORM** for data. Most of what I build goes end-to-end — auth, payments, background jobs, deployment, the full thing.
+I work primarily in the **Next.js / Node.js / TypeScript** ecosystem, with a preference for **Hono + Bun** on backend services and **PostgreSQL + Drizzle ORM** for data. I build complete systems — not just features. Auth, payments, async job queues, deployment, monitoring.
 
 ---
 
@@ -57,10 +57,23 @@ Sanity.io · Cloudinary · Paystack · Google Gemini AI · Socket.io · Sentry �
 
 ---
 
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ikenna-Lucky&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ikenna's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikenna-Lucky&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ikenna-Lucky&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+</p>
+
+---
+
 ## Experience
 
 **Software Engineer** — The OH-RES Ltd *(Aug 2025 – Apr 2026)*
-Built across a B2B EDI automation suite and a government tax compliance portal — Next.js tax filing workflows, a Node.js/TypeScript EDI VAN gateway on BullMQ/Redis, and a Next.js + Sanity.io marketing platform.
+Owned the frontend of a government tax filing portal in Next.js + TypeScript — multi-step forms, PDF generation, and bulk CSV/Excel processing. Also contributed to a Node.js/TypeScript EDI VAN gateway running BullMQ/Redis queues on AWS, and built a Next.js + Sanity.io marketing platform end-to-end.
 
 **Web Development Intern** — Neo Cloud Technologies *(Oct 2024 – Jan 2025)*
 Built SwiftCare — a full-stack healthcare appointment platform with three integrated apps (patient portal, doctor dashboard, admin panel), Razorpay payments, and JWT role-based auth. Deployed to Vercel.
